@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+ 
 }
 div{
   float:left;
@@ -10,7 +9,7 @@ div{
 section{
   border: 1px solid black;
   width:10%;
-  position: absolute;
+  position: relative;
   top:0px;
   right:0px;
 }
