@@ -7,6 +7,7 @@ div {
   float:left;
   border: 1px solid black;
   position: relative;
+  word-wrap:break-word;
 }
 p{
   padding:10px;
@@ -20,18 +21,20 @@ section{
   right:0px;
 }
 @media (min-width: 992px){
-p{
+div{
   width:33.33%;
-}}
+}
+
+}
 
 @media (min-width: 768px) and (max-width: 991px){
-  p{
+  div{
   width:50%;
 }
 #di{width:100%;}
 }
 @media (max-width: 767px){
-  p{
+  div{
   width:100%;
 }
 }
