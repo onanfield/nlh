@@ -42,12 +42,12 @@ div{
 
 @media (min-width: 768px) and (max-width: 991px){
  div{
-  width:45%;
+  width:46.66%;
 }
-.di{width:90%;}
+.di{width:96.66%;}
 }
 @media (max-width: 767px){
   div{
-  width:90%;
+  width:96.66%;
 }
 }
