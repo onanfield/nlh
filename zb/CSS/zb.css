@@ -22,7 +22,7 @@ section{
   top:0px;
   right:0px;
   text-align:center;
-  margin-bottom:5px;
+  
 }
 
 #s1{
@@ -33,7 +33,7 @@ section{
 p{
   word-wrap:break-word;
   margin:5px;
-  clear:right;
+  float:right;
 }
 @media (min-width: 992px){
 div{
