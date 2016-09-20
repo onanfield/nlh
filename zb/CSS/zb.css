@@ -3,7 +3,7 @@
  
 }
 
-p {
+div {
   float:left;
   padding:10px;
   border: 1px solid black;
@@ -16,17 +16,17 @@ p {
   clear:right;
 }*/
 @media (min-width: 992px){
-p{
+div{
   width:33.33%;
 }}
 
 @media (min-width: 768px) and (max-width: 991px){
-  p{
+  div{
   width:50%;
 }
 }
 @media (max-width: 767px){
-  p{
+  div{
   width:100%;
 }
 }
