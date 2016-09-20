@@ -5,8 +5,11 @@
 
 div {
   float:left;
-  padding:10px;
   border: 1px solid black;
+  margin: 5px;
+}
+p{
+  padding:10px;
 }
 section{
   border: 1px solid black;
