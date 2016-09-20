@@ -24,6 +24,7 @@ section{
   top:0px;
   right:0px;
   text-align:center;
+  clear:left;
 }
 #s1{
   background-color: #A52A2A;
