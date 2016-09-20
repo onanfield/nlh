@@ -13,8 +13,7 @@ div {
 }
 p{
   word-wrap:break-word;
-  margin:5px;
-  clear:right;
+  margin:10px;
 }
 section{
   border-left: 1px solid black;
