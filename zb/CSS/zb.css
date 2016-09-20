@@ -10,7 +10,7 @@ div {
   margin:10px;
   background-color: #DEB887;
   border: 1px solid black;
-  margin-bottom:5px;
+  
 }
 
 section{
@@ -22,7 +22,7 @@ section{
   top:0px;
   right:0px;
   text-align:center;
-  
+  margin-bottom:5px;
 }
 
 #s1{
