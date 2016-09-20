@@ -20,18 +20,18 @@ section{
   right:0px;
 }
 @media (min-width: 992px){
-div{
+p{
   width:33.33%;
 }}
 
 @media (min-width: 768px) and (max-width: 991px){
-  div{
+  p{
   width:50%;
 }
-#di{width:100&;}
+#di{width:100%;}
 }
 @media (max-width: 767px){
-  div{
+  p{
   width:100%;
 }
 }
