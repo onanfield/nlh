@@ -7,12 +7,13 @@ div {
   float:left;
   padding:10px;
   position: relative;
-  margin:5px;
+  margin:10px;
   background-color: #DEB887;
   border: 1px solid black;
 }
 p{
   word-wrap:break-word;
+  margin:5px;
 }
 section{
   border-left: 1px solid black;
@@ -38,7 +39,7 @@ div{
  div{
   width:45%;
 }
-.di{width:100%;}
+.di{width:90%;}
 }
 @media (max-width: 767px){
   div{
