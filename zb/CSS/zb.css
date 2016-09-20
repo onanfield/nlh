@@ -2,9 +2,10 @@
   box-sizing: border-box;
  
 }
-div{
+#di{
   float:left;
- 
+  padding:10px;
+  border: 1px solid black;
 }
 section{
   border: 1px solid black;
@@ -14,17 +15,17 @@ section{
   clear:right;
 }
 @media (min-width: 992px){
-div{
+#di{
   width:33.33%;
 }}
 
 @media (min-width: 768px) and (max-width: 991px){
-  div{
+  #di{
   width:50%;
 }
 }
 @media (max-width: 767px){
-  div{
+  #di{
   width:100%;
 }
 }
