@@ -8,13 +8,13 @@ p {
   padding:10px;
   border: 1px solid black;
 }
-section{
+/*section{
   border: 1px solid black;
   width:10%;
   position: relative;
   top:0px;
   clear:right;
-}
+}*/
 @media (min-width: 992px){
 p{
   width:33.33%;
