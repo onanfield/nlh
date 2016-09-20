@@ -6,10 +6,10 @@
 div {
   float:left;
   padding:5px;
- 
+  position: relative;
 }
 p{
-  position: relative;
+  
   border: 1px solid black;
   padding:10px;
   background-color: #DEB887;
