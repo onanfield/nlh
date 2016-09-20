@@ -6,7 +6,6 @@
 div {
   float:left;
   border: 1px solid black;
-  margin: 5px;
 }
 p{
   padding:10px;
@@ -17,7 +16,7 @@ section{
   padding: 5px;
   position: relative;
   top:0px;
-  left:0px;
+  right:0px;
 }
 @media (min-width: 992px){
 div{
