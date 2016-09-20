@@ -7,12 +7,13 @@ div {
   float:left;
   padding:5px;
   position: relative;
+  background-color: #DEB887;
 }
 p{
   
   border: 1px solid black;
   padding:10px;
-  background-color: #DEB887;
+  
   word-wrap:break-word;
 }
 section{
