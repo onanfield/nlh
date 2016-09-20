@@ -12,11 +12,7 @@ div {
   border: 1px solid black;
   margin-bottom:5px;
 }
-p{
-  word-wrap:break-word;
-  margin:5px;
-  clear:right;
-}
+
 section{
   border-left: 1px solid black;
   border-bottom: 1px solid black;
@@ -28,11 +24,17 @@ section{
   text-align:center;
   
 }
+
 #s1{
   background-color: #A52A2A;
 }
 #s2{background-color: #B5C7F2;}
 #s3{background-color: #C96E8D;}
+p{
+  word-wrap:break-word;
+  margin:5px;
+  clear:right;
+}
 @media (min-width: 992px){
 div{
   width:30%;
