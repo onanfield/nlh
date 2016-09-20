@@ -33,7 +33,7 @@ section{
 p{
   word-wrap:break-word;
   margin:5px;
-  padding-top:10px;
+  padding-top:15px;
 }
 @media (min-width: 992px){
 div{
