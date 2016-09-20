@@ -22,6 +22,11 @@ section{
   top:0px;
   right:0px;
 }
+.s1{
+  background-color: #A52A2A;
+}
+.s2{background-color: #B5C7F2;}
+.s3{background-color: #C96E8D;}
 @media (min-width: 992px){
 div{
   width:30%;
