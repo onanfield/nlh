@@ -24,11 +24,11 @@ section{
   right:0px;
   text-align:center;
 }
-.s1{
+#s1{
   background-color: #A52A2A;
 }
-.s2{background-color: #B5C7F2;}
-.s3{background-color: #C96E8D;}
+#s2{background-color: #B5C7F2;}
+#s3{background-color: #C96E8D;}
 @media (min-width: 992px){
 div{
   width:30%;
@@ -38,7 +38,7 @@ div{
  div{
   width:45%;
 }
-#di{width:100%;}
+.di{width:100%;}
 }
 @media (max-width: 767px){
   div{
