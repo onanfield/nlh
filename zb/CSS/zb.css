@@ -16,7 +16,7 @@ section{
   padding: 5px;
   position: relative;
   top:0px;
-  right:0px;
+  right:70%;
 }
 @media (min-width: 992px){
 div{
