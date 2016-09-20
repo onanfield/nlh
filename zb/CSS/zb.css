@@ -5,15 +5,13 @@
 
 div {
   float:left;
-  padding:5px;
+  padding:10px;
   position: relative;
+  margin:5px;
   background-color: #DEB887;
+  border: 1px solid black;
 }
 p{
-  
-  border: 1px solid black;
-  padding:10px;
-  
   word-wrap:break-word;
 }
 section{
@@ -26,17 +24,17 @@ section{
 }
 @media (min-width: 992px){
 div{
-  width:33.33%;
+  width:30%;
 }}
 
 @media (min-width: 768px) and (max-width: 991px){
  div{
-  width:50%;
+  width:45%;
 }
 #di{width:100%;}
 }
 @media (max-width: 767px){
   div{
-  width:100%;
+  width:90%;
 }
 }
